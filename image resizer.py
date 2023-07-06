@@ -16,3 +16,5 @@ length = int(input('Enter the length : '))
 width = int(input('Enter the width : '))
 resizing(length,width)
 
+#input of the image's name cant be used because the image's name can't be copied onto the terminal 
+
