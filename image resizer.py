@@ -17,4 +17,5 @@ width = int(input('Enter the width : '))
 resizing(length,width)
 
 #input of the image's name cant be used because the image's name can't be copied onto the terminal 
-
+#So just change the image's name which needs to be adjusted 
+#Only the file's name not the path of the file 
