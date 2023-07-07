@@ -12,4 +12,5 @@ All the beginner python projects that i've learnt from various sorces and my own
 
 5-> Rock paper scissor , a game which uses random module to generate random computerised input and takes input from the user , a simple yet fun game 
 
-6-> Random pass gen, which 
+6-> Random pass gen, which uses random and string module and some certain commands to generate a random password for the user, if he desires to generate random password
+It takes the password length and a yes or no input to generate the required password for the user 
