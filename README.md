@@ -14,3 +14,5 @@ All the beginner python projects that i've learnt from various sorces and my own
 
 6-> Random pass gen, which uses random and string module and some certain commands to generate a random password for the user, if he desires to generate random password
 It takes the password length and a yes or no input to generate the required password for the user 
+
+7-> qrcode generator , let's you generate a qr code for a particular website based on the conditions given by inputting the website's url 
